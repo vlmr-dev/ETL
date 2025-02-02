@@ -8,4 +8,5 @@ dependencies = [
     "dotenv-python>=0.0.1",
     "pylance>=0.22.0",
     "requests>=2.32.3",
+    "tinydb>=4.8.2",
 ]
